@@ -1,0 +1,19 @@
+test/ [error opening dir]
+testAlter/ [error opening dir]
+udacity_dog_vs_cat/
+├── data
+│   ├── test
+│   ├── train
+│   └── valid
+├── __pycache__
+├── test
+├── testAlter
+│   └── test -> ../test/
+├── train
+├── trainAlter
+│   ├── cat
+│   └── dog
+└── train_refined
+    └── train
+
+14 directories
